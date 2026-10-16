@@ -32,8 +32,10 @@ e da consulta à API v3 do VirusTotal.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/soc-verificador-malware.git
-cd soc-verificador-malware
+
+git clone https://github.com/ninimelo/verificador-hash-virustotal.git
+cd verificador-hash-virustotal
+
 ```
 
 Instale a dependência:
