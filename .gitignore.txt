@@ -1,0 +1,22 @@
+
+# Arquivos com configurações e segredos
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais do Python
+.venv/
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
